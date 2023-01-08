@@ -9,7 +9,7 @@
 
 * **1.** Implement a custom memory allocator in C that uses a buddy allocator algorithm and supports a variety of memory management policies.
 * **2.** Write a program in C and Assembly that simulates a simple computer with a CPU, a memory, and a set of registers. The program should be able to execute a custom assembly language, and provide basic debugging features such as disassembling, stepping through instructions, and examining memory and registers.
-* **3.**Implement a C program that generates optimized x86 assembly code for a given C function, using techniques such as inlining, loop unrolling, and register allocation. The program should be able to handle a variety of C constructs, such as loops, branches, function calls, and arrays.
+* **3.** Implement a C program that generates optimized x86 assembly code for a given C function, using techniques such as inlining, loop unrolling, and register allocation. The program should be able to handle a variety of C constructs, such as loops, branches, function calls, and arrays.
 
 *Notes: At least two projects are mandatory. First one must be done by everybody. You can choose between number 2 and number 3. The ones who will finish all 3 projects will receive more points at the final grade.*
 
