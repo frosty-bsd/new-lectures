@@ -11,7 +11,7 @@
 * **2.** Write a program in C and Assembly that simulates a simple computer with a CPU, a memory, and a set of registers. The program should be able to execute a custom assembly language, and provide basic debugging features such as disassembling, stepping through instructions, and examining memory and registers.
 * **3.** Implement a C program that generates optimized x86 assembly code for a given C function, using techniques such as inlining, loop unrolling, and register allocation. The program should be able to handle a variety of C constructs, such as loops, branches, function calls, and arrays.
 
-*Notes: At least two projects are mandatory. First one must be done by everybody. You can choose between number 2 and number 3. The ones who will finish all 3 projects will receive more points at the final grade.*
+*Notes: At least two projects are mandatory. First one must be done by everybody. You can choose between number 2 and number 3. The ones who will finish all 3 projects will receive more points at the overall score.*
 
 ## Week #6 
 * **Topic:** *Advanced techniques in C programming*
@@ -23,7 +23,7 @@
 * **2.** Write a program in C that implements a custom garbage collector for a subset of C, using a mark-and-sweep algorithm. The program should be able to handle dynamic memory allocation, pointers, and data structures such as linked lists and trees.
 * **3.** Implement a C library for working with graphs, including functions for loading and saving graphs from files, generating random graphs, and applying graph algorithms such as depth-first search and shortest path. The library should be able to handle both directed and undirected graphs, and support a variety of data formats such as adjacency lists and matrices.
 
-*Notes: At least two projects are mandatory. First one must be done by everybody. You can choose between number 2 and number 3. The ones who will finish all 3 projects will receive more points at the final grade.*
+*Notes: At least two projects are mandatory. First one must be done by everybody. You can choose between number 2 and number 3. The ones who will finish all 3 projects will receive more points at the overall score.*
 
 ## Week #7
 * **Topic:** *Mastering Python: Advanced Data Manipulation and Analysis*
@@ -38,7 +38,7 @@
 
 * **3.** Implement a Python program that performs advanced data visualization, using libraries such as Matplotlib, Seaborn, or Plotly. The program should be able to generate a variety of plots, such as scatter plots, line plots, bar plots, histograms, and box plots, and support customization options such as labels, titles, legends, and annotations.
 
-*Notes: At least two projects are mandatory. First one must be done by everybody. You can choose between number 2 and number 3. The ones who will finish all 3 projects will receive more points at the final grade.*
+*Notes: At least two projects are mandatory. First one must be done by everybody. You can choose between number 2 and number 3. The ones who will finish all 3 projects will receive more points at the overall score.*
 
 
 ## Week #8
@@ -52,7 +52,7 @@
 
 * **3.** Build a web application in Python using the Flask Framework and machine learning libraries such as scikit-learn or TensorFlow that allows users to upload and classify images. The application should allow users to train a custom image classifier using a set of labeled images, and shoul provide a user-friendly interface for uploading and classifying new images. The application should also include features such as data visualization, data validation and error handling. The application could be used to classify images in a variety of domains, such as medical images or natural images etc.
 
-*Notes: At least two projects are mandatory. First one must be done by everybody. You can choose between number 2 and number 3. The ones who will finish all 3 projects will receive more points at the final grade.*
+*Notes: At least two projects are mandatory. First one must be done by everybody. You can choose between number 2 and number 3. The ones who will finish all 3 projects will receive more points at the overall score.*
 
 
 **Problem Sets** : The problem set will only have two algorithmic problems related to the discussed topics.
